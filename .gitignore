@@ -1,0 +1,8 @@
+﻿venv/
+agents/
+Scripts/
+Lib/
+__pycache__/
+*.db
+agent_systems.json
+.env
